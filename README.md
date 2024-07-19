@@ -4,7 +4,7 @@ A collection of links related to V8 sandbox VR and exploitation
 
 ## Contents
 
-- [IssueTracker](#tracker)
+- [IssueTracker](#issuetracker)
 - [Articles](#articles)
 - [Papers & Slides](#papers)
 
@@ -80,4 +80,6 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "issue id: 330800450, V8 sandbox violation in unsigned long v8::base::AsAtomicImpl<long>::Relaxed_Load<unsigned long>](https://issuetracker.google.com/issues/330800450)
 
+## Articles
 
+## Papers & Slides
