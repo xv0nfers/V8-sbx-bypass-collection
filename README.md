@@ -6,7 +6,7 @@ A collection of links related to V8 sandbox VR and exploitation
 
 - [IssueTracker](#issuetracker)
 - [Articles](#articles)
-- [Papers & Slides](#papers)
+- [Papers & Slides](#papers--slides)
 
 ## IssueTracker
 
