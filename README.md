@@ -73,7 +73,11 @@ A collection of links related to V8 sandbox VR and exploitation
 [2024: "issue id: 331837303, V8 sandbox violation in v8::internal::maglev::MaglevGraphBuilder::TryBuildInlinedAllocatedContext](https://issuetracker.google.com/issues/331837303)
 
 [2024: "issue id: 331042216, V8 sandbox violation in v8::internal::LazyCreateDateIntervalFormat](https://issuetracker.google.com/issues/331042216)
+
 [2024: "issue id: 333065495, V8 sandbox violation in v8::internal::MemoryChunkMetadata::heap](https://issuetracker.google.com/issues/333065495)
+
 [2024: "issue id: 329920544, V8 sandbox violation in v8::internal::Managed<icu_73::number::LocalizedNumberFormatter>::GetSharedPtrPtr](https://issuetracker.google.com/issues/329920544)
+
 [2024: "issue id: 330800450, V8 sandbox violation in unsigned long v8::base::AsAtomicImpl<long>::Relaxed_Load<unsigned long>](https://issuetracker.google.com/issues/330800450)
+
 
