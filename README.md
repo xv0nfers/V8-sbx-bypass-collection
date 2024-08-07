@@ -7,6 +7,7 @@ A collection of links related to V8 sandbox VR and exploitation
 - [IssueTracker](#issuetracker)
 - [Articles](#articles)
 - [Papers & Slides](#papers--slides)
+- [Design documents]
 
 ## IssueTracker
 
@@ -107,11 +108,15 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2023: "Abusing Liftoff assembly and efficiently escaping from sbx(@r3tr074)"](https://retr0.zip/blog/abusing-Liftoff-assembly-and-efficiently-escaping-from-sbx.html)
 
+[2024: "The V8 Sandbox"](https://v8.dev/blog/sandbox)
+
 [2024: "A Deep Dive into V8 Sandbox Escape Technique Used in In-The-Wild Exploit"](https://blog.theori.io/a-deep-dive-into-v8-sandbox-escape-technique-used-in-in-the-wild-exploit-d5dcf30681d4)
 
 [2024: "CVE-2024-2887: A Pwn2Own Winning Bug in Google Chrome"](https://www.zerodayinitiative.com/blog/2024/5/2/cve-2024-2887-a-pwn2own-winning-bug-in-google-chrome)
 
 ## Papers & Slides
+
+[2022: "Sandboxing V8(Samuel Groß, @5aelo)"](https://docs.google.com/presentation/d/1iDWDHuAZ8ee-dRF5Lkf0nwO2mkLdZG_YJEP1yPvJ09E/edit)
 
 [2024: "The V8 Heap Sandbox(Samuel Groß, @5aelo) - OffensiveCon 2024"](https://saelo.github.io/presentations/offensivecon_24_the_v8_heap_sandbox.pdf)
 
@@ -119,4 +124,22 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "Google Chrome Renderer Only RCE by Seunghyun Lee (@0x10n) Pwn2Own Vancouver 2024"](https://issues.chromium.org/action/issues/330575498/attachments/54838004?download=false)
 
+## Design documents
 
+[2019: "Compressed pointers in V8"](https://docs.google.com/document/d/10qh2-b4C5OtSg-xLwyZpEI5ZihVBPtn1xwKBbQC26yI/edit#heading=h.x1cv1fi5g42q)
+
+[2021: "V8 Sandbox"](https://docs.google.com/document/d/1FM4fQmIhEqPG8uGp5o9A-mnPB5BOeScZYpkHjo0KKA8/edit#heading=h.xzptrog8pyxf)
+
+[2022: "V8 Sandbox - Address Space"](https://docs.google.com/document/d/1PM4Zqmlt8ac5O8UNQfY7fOsem-6MhbsB-vjFI-9XK6w/edit#heading=h.xzptrog8pyxf)
+
+[2022: "V8 Sandbox - Sandboxed Pointers"](https://docs.google.com/document/d/1HSap8-J3HcrZvT7-5NsbYWcjfc0BVoops5TDHZNsnko/edit#heading=h.suker1x4zgzz)
+
+[2022: "V8 Sandbox - External Pointer Sandboxing"](https://docs.google.com/document/d/1V3sxltuFjjhp_6grGHgfqZNK57qfzGzme0QTk0IXDHk/edit#heading=h.xzptrog8pyxf)
+
+[2022: "V8 Sandbox - Code Pointer Sandboxing"](https://docs.google.com/document/d/1CPs5PutbnmI-c5g7e_Td9CNGh5BvpLleKCqUnqmD82k/edit#heading=h.xzptrog8pyxf)
+
+[2023: "V8 Sandbox - Glossary"](https://docs.google.com/document/d/10ZVrH2m_cbsjhZmjnWd4K5jpEHWCLourq2dulwN8elI/edit#heading=h.diogznvalour)
+
+[2023: "V8 Sandbox - Trusted Space"](https://docs.google.com/document/d/1IrvzL4uX_Zv0k2Iakdp_q_z33bj-qlYF5IesGpXW0fM/edit#heading=h.xzptrog8pyxf)
+
+[2024: "V8 Sandbox - Hardware Support"](https://docs.google.com/document/d/12MsaG6BYRB-jQWNkZiuM3bY8X2B2cAsCMLLdgErvK4c/edit#heading=h.xzptrog8pyxf)
