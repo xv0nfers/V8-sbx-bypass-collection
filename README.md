@@ -58,45 +58,55 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "issue id: 330563095, WebCodecs VideoFrame Race Condition UAF Write to RCE" by Seunghyun Lee(@0x10n)](https://issuetracker.google.com/issues/330563095) [Pwn2Own 2024] 
 
-[2024: "issue id: 331042197, V8 sandbox violation in v8::internal::Scavenger::IterateAndScavengePromotedObject](https://issuetracker.google.com/issues/331042197)
+[2024: "issue id: 331042197, V8 sandbox violation in v8::internal::Scavenger::IterateAndScavengePromotedObject"](https://issuetracker.google.com/issues/331042197)
 
-[2024: "issue id: 330922416, V8 sandbox violation in v8::internal::ArrayBufferExtension::backing_store](https://issuetracker.google.com/issues/330922416)
+[2024: "issue id: 330922416, V8 sandbox violation in v8::internal::ArrayBufferExtension::backing_store"](https://issuetracker.google.com/issues/330922416)
 
-[2024: "issue id: 331036491, V8 sandbox violation in icu_73::Locale::getBaseName](https://issuetracker.google.com/issues/331036491)
+[2024: "issue id: 331036491, V8 sandbox violation in icu_73::Locale::getBaseName"](https://issuetracker.google.com/issues/331036491)
 
-[2024: "issue id: 330096629, V8 sandbox violation in icu_73::RelativeDateTimeFormatter::getFormatStyle](https://issuetracker.google.com/issues/330096629)
+[2024: "issue id: 330096629, V8 sandbox violation in icu_73::RelativeDateTimeFormatter::getFormatStyle"](https://issuetracker.google.com/issues/330096629)
 
-[2024: "issue id: 331241020, V8 sandbox violation and memory corruption due to buffer overflow in compiler](https://issuetracker.google.com/issues/331241020)
+[2024: "issue id: 331241020, V8 sandbox violation and memory corruption due to buffer overflow in compiler"](https://issuetracker.google.com/issues/331241020)
 
-[2024: "issue id: 331883947, V8 sandbox violation in v8::internal::Managed<icu_73::Locale>::GetSharedPtrPtr](https://issuetracker.google.com/issues/331883947)
+[2024: "issue id: 331883947, V8 sandbox violation in v8::internal::Managed<icu_73::Locale>::GetSharedPtrPtr"](https://issuetracker.google.com/issues/331883947)
 
-[2024: "issue id: 331837303, V8 sandbox violation in v8::internal::maglev::MaglevGraphBuilder::TryBuildInlinedAllocatedContext](https://issuetracker.google.com/issues/331837303)
+[2024: "issue id: 331837303, V8 sandbox violation in v8::internal::maglev::MaglevGraphBuilder::TryBuildInlinedAllocatedContext"](https://issuetracker.google.com/issues/331837303)
 
-[2024: "issue id: 331042216, V8 sandbox violation in v8::internal::LazyCreateDateIntervalFormat](https://issuetracker.google.com/issues/331042216)
+[2024: "issue id: 331042216, V8 sandbox violation in v8::internal::LazyCreateDateIntervalFormat"](https://issuetracker.google.com/issues/331042216)
 
-[2024: "issue id: 333065495, V8 sandbox violation in v8::internal::MemoryChunkMetadata::heap](https://issuetracker.google.com/issues/333065495)
+[2024: "issue id: 333065495, V8 sandbox violation in v8::internal::MemoryChunkMetadata::heap"](https://issuetracker.google.com/issues/333065495)
 
-[2024: "issue id: 329920544, V8 sandbox violation in v8::internal::Managed<icu_73::number::LocalizedNumberFormatter>::GetSharedPtrPtr](https://issuetracker.google.com/issues/329920544)
+[2024: "issue id: 329920544, V8 sandbox violation in v8::internal::Managed<icu_73::number::LocalizedNumberFormatter>::GetSharedPtrPtr"](https://issuetracker.google.com/issues/329920544)
 
-[2024: "issue id: 330800450, V8 sandbox violation in unsigned long v8::base::AsAtomicImpl<long>::Relaxed_Load<unsigned long>](https://issuetracker.google.com/issues/330800450)
+[2024: "issue id: 330800450, V8 sandbox violation in unsigned long v8::base::AsAtomicImpl<long>::Relaxed_Load<unsigned long>"](https://issuetracker.google.com/issues/330800450)
 
-[2024: "issue id: 335763881, V8 sandbox violation in v8::internal::TranslatedState::CreateNextTranslatedValue](https://issuetracker.google.com/issues/335763881)
+[2024: "issue id: 335763881, V8 sandbox violation in v8::internal::TranslatedState::CreateNextTranslatedValue"](https://issuetracker.google.com/issues/335763881)
 
-[2024: "issue id: 335544065, V8 sandbox violation in Builtins_DeoptimizationEntry_Eager](https://issuetracker.google.com/issues/335544065)
+[2024: "issue id: 335544065, V8 sandbox violation in Builtins_DeoptimizationEntry_Eager"](https://issuetracker.google.com/issues/335544065)
 
-[2024: "issue id: 335322609, V8 sandbox violation in v8::internal::maglev::CapturedObject::set](https://issuetracker.google.com/issues/335322609)
+[2024: "issue id: 335322609, V8 sandbox violation in v8::internal::maglev::CapturedObject::set"](https://issuetracker.google.com/issues/335322609)
 
-[2024: "issue id: 335810507, V8 sandbox violation in v8::internal::ToLatin1Lower](https://issuetracker.google.com/issues/335810507)
+[2024: "issue id: 335810507, V8 sandbox violation in v8::internal::ToLatin1Lower"](https://issuetracker.google.com/issues/335810507)
 
-[2024: "issue id: 337094992, V8 sandbox violation in v8::internal::ArrayBufferExtension::backing_store](https://issuetracker.google.com/issues/337094992)
+[2024: "issue id: 337094992, V8 sandbox violation in v8::internal::ArrayBufferExtension::backing_store"](https://issuetracker.google.com/issues/337094992)
 
-[2024: "issue id: 336655186, V8 sandbox violation in v8::internal::Scavenger::IterateAndScavengePromotedObject](https://issuetracker.google.com/issues/336655186)
+[2024: "issue id: 336655186, V8 sandbox violation in v8::internal::Scavenger::IterateAndScavengePromotedObject"](https://issuetracker.google.com/issues/336655186)
 
-[2024: "issue id: 333829668, V8 sandbox violation in v8::base::Flags<v8::internal::MemoryChunk::Flag, unsigned long, unsigned long>::](https://issuetracker.google.com/issues/333829668)
+[2024: "issue id: 333829668, V8 sandbox violation in v8::base::Flags<v8::internal::MemoryChunk::Flag, unsigned long, unsigned long>::"](https://issuetracker.google.com/issues/333829668)
 
-[2024: "issue id: 327473161, V8 sandbox violation in v8::internal::TranslatedState::CreateNextTranslatedValue](https://issuetracker.google.com/issues/327473161)
+[2024: "issue id: 327473161, V8 sandbox violation in v8::internal::TranslatedState::CreateNextTranslatedValue"](https://issuetracker.google.com/issues/327473161)
 
 
 ## Articles
 
+[2024: "CVE-2024-2887: A Pwn2Own Winning Bug in Google Chrome"](https://www.zerodayinitiative.com/blog/2024/5/2/cve-2024-2887-a-pwn2own-winning-bug-in-google-chrome)
+
 ## Papers & Slides
+
+[2024: "The V8 Heap Sandbox(Samuel Groß, @5aelo) - OffensiveCon 2024"](https://saelo.github.io/presentations/offensivecon_24_the_v8_heap_sandbox.pdf)
+
+[2024: "A Chrome/Edge RCE via V8 WASM Type Confusion by Manfred Paul(@_manfp) Pwn2Own Vancouver 2024"](https://issues.chromium.org/action/issues/330575498/attachments/54838004?download=false)
+
+[2024: "Google Chrome Renderer Only RCE by Seunghyun Lee (@0x10n) Pwn2Own Vancouver 2024"](https://issues.chromium.org/action/issues/330575498/attachments/54838004?download=false)
+
+
