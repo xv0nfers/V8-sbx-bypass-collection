@@ -1,5 +1,5 @@
-V8 Sandbox escape/bypass/violation collection
-=============================================
+V8 Sandbox escape/bypass/violation and VR collection
+====================================================
 A collection of links related to V8 sandbox VR and exploitation
 
 ## Contents
