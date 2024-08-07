@@ -134,6 +134,8 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "Google Chrome Renderer Only RCE by Seunghyun Lee (@0x10n) Pwn2Own Vancouver 2024"](https://issues.chromium.org/action/issues/330575498/attachments/54838004?download=false)
 
+[2024: "From the Vulnerability to the Victory: A Chrome Renderer 1-Day Exploit’s Journey to v8CTF Glory"](https://kaist-hacking.github.io/pubs/2024/lee:v8-ctf-slides.pdf)[TyphoonCon 2024]
+
 ## Design documents
 
 [2019: "Compressed pointers in V8"](https://docs.google.com/document/d/10qh2-b4C5OtSg-xLwyZpEI5ZihVBPtn1xwKBbQC26yI/edit#heading=h.x1cv1fi5g42q)
