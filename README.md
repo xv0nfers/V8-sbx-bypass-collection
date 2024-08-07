@@ -11,6 +11,12 @@ A collection of links related to V8 sandbox VR and exploitation
 
 ## IssueTracker
 
+[2023: "issue id: 40940619, V8 Sandbox escape due to type tags in ExternalPointerTable being too coarse for Embedder Objects"](https://issuetracker.google.com/issues/40940619)
+
+[2024: "issue id: 42204606, Mitigate sandbox escapes in RegExp"](https://issuetracker.google.com/issues/42204606)
+
+[2024: "issue id: 336507783, V8 Sandbox: Prevent Wasm-based sandbox escapes "](https://issuetracker.google.com/issues/336507783)
+
 [2024: "issue id: 327732554, V8 sandbox violation due to signed comparison of (untrusted) string length against buffer size"](https://issuetracker.google.com/issues/327732554)
 
 [2024: "issue id: 326086002, Sandbox violations due to (exhaustive) switches over enums when the code after the switch has UB"](https://issuetracker.google.com/issues/326086002)
@@ -100,11 +106,15 @@ A collection of links related to V8 sandbox VR and exploitation
 
 ## Articles
 
+[2022: "Code Execution in Chromium’s V8 Heap Sandbox"](https://anvbis.au/posts/code-execution-in-chromiums-v8-heap-sandbox/)
+
+[2022: "KITCTFCTF 2022 V8 Heap Sandbox Escape"](https://ju256.rip/posts/kitctfctf22-date/)
+
 [2023: "Use Native Pointer of Function to Bypass The Latest Chrome v8 Sandbox (exp of issue1378239)"](https://medium.com/@numencyberlabs/use-native-pointer-of-function-to-bypass-the-latest-chrome-v8-sandbox-exp-of-issue1378239-251d9c5b0d14)
 
 [2023: "Use Wasm to Bypass Latest Chrome v8sbx Again"](https://medium.com/@numencyberlabs/use-wasm-to-bypass-latest-chrome-v8sbx-again-639c4c05b157)
 
-[2023: "Code Execution in Chromium’s V8 Heap Sandbox"](https://anvbis.au/posts/code-execution-in-chromiums-v8-heap-sandbox/)
+[2023: "Exploring Historical V8 Heap Sandbox Escapes I"](https://anvbis.au/posts/exploring-historical-v8-heap-sandbox-escapes-i/)
 
 [2023: "Abusing Liftoff assembly and efficiently escaping from sbx(@r3tr074)"](https://retr0.zip/blog/abusing-Liftoff-assembly-and-efficiently-escaping-from-sbx.html)
 
@@ -142,4 +152,11 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2023: "V8 Sandbox - Trusted Space"](https://docs.google.com/document/d/1IrvzL4uX_Zv0k2Iakdp_q_z33bj-qlYF5IesGpXW0fM/edit#heading=h.xzptrog8pyxf)
 
+[2024: "Multiple sandboxes aka sandbox per isolate group"](https://docs.google.com/document/d/1ja0SUpqpueNDsoYf51ydnUflZlpQknwO3h4Aw4uGAto/edit#heading=h.rhlvjpysxkfs)
+
 [2024: "V8 Sandbox - Hardware Support"](https://docs.google.com/document/d/12MsaG6BYRB-jQWNkZiuM3bY8X2B2cAsCMLLdgErvK4c/edit#heading=h.xzptrog8pyxf)
+
+[2024: "V8 Sandbox - Embedder Pointer Sandboxing"](https://docs.google.com/document/d/14m6CjJYaTFEmEq7czOOL5iqzMe72Owyy3PmxKdgaAms/edit#heading=h.xzptrog8pyxf)
+
+[2024: "V8 Sandbox + Leaptiering"](https://docs.google.com/document/d/1WkyEynMluvIr0LBmrapyF7MiE8wIHFHnlP5B6FFhQuA/edit#heading=h.xzptrog8pyxf)
+
