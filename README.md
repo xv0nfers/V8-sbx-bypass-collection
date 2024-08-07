@@ -80,6 +80,23 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "issue id: 330800450, V8 sandbox violation in unsigned long v8::base::AsAtomicImpl<long>::Relaxed_Load<unsigned long>](https://issuetracker.google.com/issues/330800450)
 
+[2024: "issue id: 335763881, V8 sandbox violation in v8::internal::TranslatedState::CreateNextTranslatedValue](https://issuetracker.google.com/issues/335763881)
+
+[2024: "issue id: 335544065, V8 sandbox violation in Builtins_DeoptimizationEntry_Eager](https://issuetracker.google.com/issues/335544065)
+
+[2024: "issue id: 335322609, V8 sandbox violation in v8::internal::maglev::CapturedObject::set](https://issuetracker.google.com/issues/335322609)
+
+[2024: "issue id: 335810507, V8 sandbox violation in v8::internal::ToLatin1Lower](https://issuetracker.google.com/issues/335810507)
+
+[2024: "issue id: 337094992, V8 sandbox violation in v8::internal::ArrayBufferExtension::backing_store](https://issuetracker.google.com/issues/337094992)
+
+[2024: "issue id: 336655186, V8 sandbox violation in v8::internal::Scavenger::IterateAndScavengePromotedObject](https://issuetracker.google.com/issues/336655186)
+
+[2024: "issue id: 333829668, V8 sandbox violation in v8::base::Flags<v8::internal::MemoryChunk::Flag, unsigned long, unsigned long>::](https://issuetracker.google.com/issues/333829668)
+
+[2024: "issue id: 327473161, V8 sandbox violation in v8::internal::TranslatedState::CreateNextTranslatedValue](https://issuetracker.google.com/issues/327473161)
+
+
 ## Articles
 
 ## Papers & Slides
