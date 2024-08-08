@@ -128,11 +128,11 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2022: "Sandboxing V8(Samuel Groß, @5aelo)"](https://docs.google.com/presentation/d/1iDWDHuAZ8ee-dRF5Lkf0nwO2mkLdZG_YJEP1yPvJ09E/edit)
 
-[2024: "The V8 Heap Sandbox(Samuel Groß, @5aelo) - OffensiveCon 2024"](https://saelo.github.io/presentations/offensivecon_24_the_v8_heap_sandbox.pdf)
+[2024: "The V8 Heap Sandbox(Samuel Groß, @5aelo)"](https://saelo.github.io/presentations/offensivecon_24_the_v8_heap_sandbox.pdf)[OffensiveCon 2024]
 
-[2024: "A Chrome/Edge RCE via V8 WASM Type Confusion by Manfred Paul(@_manfp) Pwn2Own Vancouver 2024"](https://issues.chromium.org/action/issues/330575498/attachments/54838004?download=false)
+[2024: "A Chrome/Edge RCE via V8 WASM Type Confusion by Manfred Paul(@_manfp)"](https://issues.chromium.org/action/issues/330575498/attachments/54838004?download=false)[Pwn2Own Vancouver 2024]
 
-[2024: "Google Chrome Renderer Only RCE by Seunghyun Lee (@0x10n) Pwn2Own Vancouver 2024"](https://issues.chromium.org/action/issues/330575498/attachments/54838004?download=false)
+[2024: "Google Chrome Renderer Only RCE by Seunghyun Lee (@0x10n)"](https://issues.chromium.org/action/issues/330575498/attachments/54838004?download=false)[Pwn2Own Vancouver 2024]
 
 [2024: "From the Vulnerability to the Victory: A Chrome Renderer 1-Day Exploit’s Journey to v8CTF Glory"](https://kaist-hacking.github.io/pubs/2024/lee:v8-ctf-slides.pdf)[TyphoonCon 2024]
 
