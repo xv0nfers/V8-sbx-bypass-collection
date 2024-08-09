@@ -103,6 +103,8 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "issue id: 327473161, V8 sandbox violation in v8::internal::TranslatedState::CreateNextTranslatedValue"](https://issuetracker.google.com/issues/327473161)
 
+[2024: "issue id: 334120897, V8 Sandbox Bypass: wasm function signature confusion leading to out of sandbox arbitrary read/write "](https://issuetracker.google.com/issues/334120897)
+
 
 ## Articles
 
