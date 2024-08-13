@@ -105,6 +105,10 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "issue id: 334120897, V8 Sandbox Bypass: wasm function signature confusion leading to out of sandbox arbitrary read/write "](https://issuetracker.google.com/issues/334120897)
 
+[2024: "issue id: 336648007, V8 sandbox violation in v8::internal::maglev::CapturedObject::set"](https://issuetracker.google.com/issues/336648007)
+
+[2024: "issue id: 343407073, V8 Sandbox Bypass: control-flow hijacking via WASM Table Indirect call"](https://issuetracker.google.com/issues/343407073)[Edouard Bochin (@le_douds) and Tao Yan (@Ga1ois)]
+
 
 ## Articles
 
@@ -139,6 +143,10 @@ A collection of links related to V8 sandbox VR and exploitation
 [2024: "From the Vulnerability to the Victory: A Chrome Renderer 1-Day Exploit’s Journey to v8CTF Glory"](https://kaist-hacking.github.io/pubs/2024/lee:v8-ctf-slides.pdf)[TyphoonCon 2024]
 
 [2024: "Let the Cache Cache and Let the WebAssembly Assemble: Knockin' on Chrome's Shell"](https://i.blackhat.com/BH-US-24/Presentations/US24-Bochin-Let-The-Cache-Cache-and-Wednesday.pdf)[blackhat USA 2024]
+
+[2024: "V8 Sandbox Escape Write Up - Edouard Bochin (@le_douds) and Tao Yan (@Ga1ois)"](https://issues.chromium.org/action/issues/343407073/attachments/56741064?download=false)[Pwn2Own Vancouver 2024]
+
+
 
 ## Design documents
 
