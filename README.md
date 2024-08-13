@@ -140,6 +140,8 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "Google Chrome Renderer Only RCE by Seunghyun Lee (@0x10n)"](https://issues.chromium.org/action/issues/330575498/attachments/54838004?download=false)[Pwn2Own Vancouver 2024]
 
+[2024: "Evolution of the protections of the V8 JSE"](https://www.sstic.org/2024/presentation/evolution_des_protections_du_moteur_javascript_v8/)[[slides](https://www.sstic.org/media/SSTIC2024/SSTIC-actes/evolution_des_protections_du_moteur_javascript_v8/SSTIC2024-Slides-evolution_des_protections_du_moteur_javascript_v8-jolivet.pdf)][[Full Article](https://www.sstic.org/media/SSTIC2024/SSTIC-actes/evolution_des_protections_du_moteur_javascript_v8/SSTIC2024-Article-evolution_des_protections_du_moteur_javascript_v8-jolivet.pdf)][SSTIC2024]
+
 [2024: "From the Vulnerability to the Victory: A Chrome Renderer 1-Day Exploit’s Journey to v8CTF Glory"](https://kaist-hacking.github.io/pubs/2024/lee:v8-ctf-slides.pdf)[TyphoonCon 2024]
 
 [2024: "Let the Cache Cache and Let the WebAssembly Assemble: Knockin' on Chrome's Shell"](https://i.blackhat.com/BH-US-24/Presentations/US24-Bochin-Let-The-Cache-Cache-and-Wednesday.pdf)[blackhat USA 2024]
