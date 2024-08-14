@@ -109,6 +109,8 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "issue id: 343407073, V8 Sandbox Bypass: control-flow hijacking via WASM Table Indirect call"](https://issuetracker.google.com/issues/343407073)[Edouard Bochin (@le_douds) and Tao Yan (@Ga1ois)]
 
+[2024: "issue id: 339141292, V8 sandbox violation in Builtins_JSToJSWrapper"](https://issuetracker.google.com/issues/339141292)
+
 
 ## Articles
 
