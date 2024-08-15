@@ -120,15 +120,23 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2022: "KITCTFCTF 2022 V8 Heap Sandbox Escape"](https://ju256.rip/posts/kitctfctf22-date/)
 
+[2022: "Memory Hole: Breaking V8 Heap Sandbox"](https://mem2019.github.io/jekyll/update/2022/02/06/DiceCTF-Memory-Hole.html)[Dice CTF]
+
 [2023: "Use Native Pointer of Function to Bypass The Latest Chrome v8 Sandbox (exp of issue1378239)"](https://medium.com/@numencyberlabs/use-native-pointer-of-function-to-bypass-the-latest-chrome-v8-sandbox-exp-of-issue1378239-251d9c5b0d14)
 
 [2023: "Use Wasm to Bypass Latest Chrome v8sbx Again"](https://medium.com/@numencyberlabs/use-wasm-to-bypass-latest-chrome-v8sbx-again-639c4c05b157)
+
+[2023: "Exploiting Zenbleed from Chrome"](https://vu.ls/blog/exploiting-zenbleed-from-chrome/)
 
 [2023: "Exploring Historical V8 Heap Sandbox Escapes I"](https://anvbis.au/posts/exploring-historical-v8-heap-sandbox-escapes-i/)
 
 [2023: "Abusing Liftoff assembly and efficiently escaping from sbx(@r3tr074)"](https://retr0.zip/blog/abusing-Liftoff-assembly-and-efficiently-escaping-from-sbx.html)
 
 [2024: "The V8 Sandbox"](https://v8.dev/blog/sandbox)
+
+[2024: "From object transition to RCE in the Chrome renderer"](https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/)
+
+[2024: "Attack of the clones: Getting RCE in Chrome’s renderer with duplicate object properties"](https://github.blog/security/vulnerability-research/attack-of-the-clones-getting-rce-in-chromes-renderer-with-duplicate-object-properties/)
 
 [2024: "A Deep Dive into V8 Sandbox Escape Technique Used in In-The-Wild Exploit"](https://blog.theori.io/a-deep-dive-into-v8-sandbox-escape-technique-used-in-in-the-wild-exploit-d5dcf30681d4)
 
@@ -151,6 +159,8 @@ A collection of links related to V8 sandbox VR and exploitation
 [2024: "Evolution of the protections of the V8 JSE"](https://www.sstic.org/2024/presentation/evolution_des_protections_du_moteur_javascript_v8/)[[slides](https://www.sstic.org/media/SSTIC2024/SSTIC-actes/evolution_des_protections_du_moteur_javascript_v8/SSTIC2024-Slides-evolution_des_protections_du_moteur_javascript_v8-jolivet.pdf)][[Full Article](https://www.sstic.org/media/SSTIC2024/SSTIC-actes/evolution_des_protections_du_moteur_javascript_v8/SSTIC2024-Article-evolution_des_protections_du_moteur_javascript_v8-jolivet.pdf)][SSTIC2024]
 
 [2024: "From the Vulnerability to the Victory: A Chrome Renderer 1-Day Exploit’s Journey to v8CTF Glory"](https://kaist-hacking.github.io/pubs/2024/lee:v8-ctf-slides.pdf)[TyphoonCon 2024]
+
+[2024: "TIKTAG: Breaking ARM’s Memory Tagging Extension with Speculative Execution"](https://arxiv.org/pdf/2406.08719v1)
 
 [2024: "Let the Cache Cache and Let the WebAssembly Assemble: Knockin' on Chrome's Shell"](https://i.blackhat.com/BH-US-24/Presentations/US24-Bochin-Let-The-Cache-Cache-and-Wednesday.pdf)[blackhat USA 2024]
 
