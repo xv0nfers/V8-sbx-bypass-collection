@@ -134,9 +134,13 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "CVE-2024-2887: A Pwn2Own Winning Bug in Google Chrome"](https://www.zerodayinitiative.com/blog/2024/5/2/cve-2024-2887-a-pwn2own-winning-bug-in-google-chrome)
 
+[2024: "Breaking V8 Sandbox with Trusted Pointer Table"](https://mem2019.github.io/jekyll/update/2024/07/14/HITCON.html)[HITCON CTF 2024]
+
 ## Papers & Slides
 
 [2022: "Sandboxing V8(Samuel Groß, @5aelo)"](https://docs.google.com/presentation/d/1iDWDHuAZ8ee-dRF5Lkf0nwO2mkLdZG_YJEP1yPvJ09E/edit)
+
+[2023: "Modern chrome exploit chain development"](https://powerofcommunity.net/poc2023/Avboy1337.pdf)[POC2023 - @numencyber]
 
 [2024: "The V8 Heap Sandbox(Samuel Groß, @5aelo)"](https://saelo.github.io/presentations/offensivecon_24_the_v8_heap_sandbox.pdf)[OffensiveCon 2024]
 
