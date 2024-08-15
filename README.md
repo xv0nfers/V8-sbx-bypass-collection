@@ -111,6 +111,8 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "issue id: 339141292, V8 sandbox violation in Builtins_JSToJSWrapper"](https://issuetracker.google.com/issues/339141292)
 
+[2024: "issue id: 339310133, V8 sandbox violation in v8::internal::maglev::CapturedObject::set"](https://issuetracker.google.com/issues/339310133)
+
 
 ## Articles
 
