@@ -113,7 +113,9 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "issue id: 339310133, V8 sandbox violation in v8::internal::maglev::CapturedObject::set"](https://issuetracker.google.com/issues/339310133)
 
-[2024: "issue id: 339517309,  V8 sandbox violation in v8::internal::maglev::CapturedObject::set"](https://issuetracker.google.com/issues/339517309)
+[2024: "issue id: 339517309, V8 sandbox violation in v8::internal::maglev::CapturedObject::set"](https://issuetracker.google.com/issues/339517309)
+
+[2024: "issue id: 338342089, V8 sandbox violation in v8::internal::wasm::name "](https://issuetracker.google.com/issues/338342089)
 
 
 ## Articles
