@@ -124,7 +124,9 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2022: "KITCTFCTF 2022 V8 Heap Sandbox Escape"](https://ju256.rip/posts/kitctfctf22-date/)
 
-[2022: "Memory Hole: Breaking V8 Heap Sandbox"](https://mem2019.github.io/jekyll/update/2022/02/06/DiceCTF-Memory-Hole.html)[Dice CTF]
+[2022: "memory hole"](https://blog.kylebot.net/2022/02/06/DiceCTF-2022-memory-hole/)[DiceCTF 2022]
+
+[2022: "Memory Hole: Breaking V8 Heap Sandbox"](https://mem2019.github.io/jekyll/update/2022/02/06/DiceCTF-Memory-Hole.html)[DiceCTF 2022]
 
 [2023: "Use Native Pointer of Function to Bypass The Latest Chrome v8 Sandbox (exp of issue1378239)"](https://medium.com/@numencyberlabs/use-native-pointer-of-function-to-bypass-the-latest-chrome-v8-sandbox-exp-of-issue1378239-251d9c5b0d14)
 
@@ -137,6 +139,8 @@ A collection of links related to V8 sandbox VR and exploitation
 [2023: "Abusing Liftoff assembly and efficiently escaping from sbx(@r3tr074)"](https://retr0.zip/blog/abusing-Liftoff-assembly-and-efficiently-escaping-from-sbx.html)
 
 [2023: "Start Your Engines - Capturing the First Flag in Google's New v8CTF"](https://www.madstacks.dev/posts/Start-Your-Engines-Capturing-the-First-Flag-in-Google%27s-New-v8CTF/)
+
+[2024: "Google Chrome V8 CVE-2024-0517 Out-of-Bounds Write Code Execution"](https://blog.exodusintel.com/2024/01/19/google-chrome-v8-cve-2024-0517-out-of-bounds-write-code-execution/)
 
 [2024: "The V8 Sandbox"](https://v8.dev/blog/sandbox)
 
