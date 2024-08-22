@@ -136,7 +136,11 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2023: "Abusing Liftoff assembly and efficiently escaping from sbx(@r3tr074)"](https://retr0.zip/blog/abusing-Liftoff-assembly-and-efficiently-escaping-from-sbx.html)
 
+[2023: "Start Your Engines - Capturing the First Flag in Google's New v8CTF"](https://www.madstacks.dev/posts/Start-Your-Engines-Capturing-the-First-Flag-in-Google%27s-New-v8CTF/)
+
 [2024: "The V8 Sandbox"](https://v8.dev/blog/sandbox)
+
+[2024: "Issue-1472121 : Exploit out-of-bound CloneObjectIC type confusion"](https://cwresearchlab.co.kr/entry/Issue-1472121-Exploit-out-of-bound-CloneObjectIC-type-confusion)
 
 [2024: "From object transition to RCE in the Chrome renderer"](https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/)
 
@@ -147,6 +151,9 @@ A collection of links related to V8 sandbox VR and exploitation
 [2024: "CVE-2024-2887: A Pwn2Own Winning Bug in Google Chrome"](https://www.zerodayinitiative.com/blog/2024/5/2/cve-2024-2887-a-pwn2own-winning-bug-in-google-chrome)
 
 [2024: "Breaking V8 Sandbox with Trusted Pointer Table"](https://mem2019.github.io/jekyll/update/2024/07/14/HITCON.html)[HITCON CTF 2024]
+
+[2024: "SSD Advisory – Google Chrome RCE(Seunghyun Lee (@0x10n)"](https://mem2019.github.io/jekyll/update/2024/07/14/HITCON.html)[TyphoonPWN 2024]
+
 
 ## Papers & Slides
 
