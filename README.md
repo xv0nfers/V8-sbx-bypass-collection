@@ -152,6 +152,8 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "Breaking V8 Sandbox with Trusted Pointer Table"](https://mem2019.github.io/jekyll/update/2024/07/14/HITCON.html)[HITCON CTF 2024]
 
+[2024: "HITCON CTF QUAL 2024 Pwn Challenge Part 1 - Halloween and v8sbx"](https://u1f383.github.io/ctf/2024/07/16/hitcon-ctf-qual-2024-pwn-challenge-part-1-halloween-and-v8sbx.html)[HITCON CTF 2024]
+
 [2024: "SSD Advisory – Google Chrome RCE(Seunghyun Lee (@0x10n)"](https://mem2019.github.io/jekyll/update/2024/07/14/HITCON.html)[TyphoonPWN 2024]
 
 
