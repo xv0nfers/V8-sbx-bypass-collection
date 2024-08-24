@@ -183,6 +183,7 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "V8 Sandbox Escape Write Up - Edouard Bochin (@le_douds) and Tao Yan (@Ga1ois)"](https://issues.chromium.org/action/issues/343407073/attachments/56741064?download=false)[Pwn2Own Vancouver 2024]
 
+[2024: "Bypassing the V8 sandbox protection mechanism"](https://github.com/phoen1xxxx/V8sandbox_bypass/blob/master/V8SandboxBypass.pdf)[OFFZONE 2024]
 
 
 ## Design documents
