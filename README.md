@@ -119,6 +119,8 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "Generate heap sandbox tags for IDL-based types"](https://issuetracker.google.com/issues/342350850)
 
+[2024: "issue id: 337941142, V8 sandbox violation in v8::base::Flags<v8::internal::MemoryChunk::Flag, unsigned long, unsigned long>::"](https://issuetracker.google.com/issues/337941142)
+
 
 ## Articles
 
