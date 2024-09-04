@@ -121,6 +121,8 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "issue id: 337941142, V8 sandbox violation in v8::base::Flags<v8::internal::MemoryChunk::Flag, unsigned long, unsigned long>::"](https://issuetracker.google.com/issues/337941142)
 
+[2024: "issue id: 342451736, V8 sandbox violation in void v8::internal::BodyDescriptorBase::IterateTrustedPointer<v8::internal::MainM "](https://issuetracker.google.com/issues/342451736)
+
 
 ## Articles
 
