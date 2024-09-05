@@ -123,6 +123,8 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "issue id: 342451736, V8 sandbox violation in void v8::internal::BodyDescriptorBase::IterateTrustedPointer<v8::internal::MainM "](https://issuetracker.google.com/issues/342451736)
 
+[2024: "issue id: 342866373, V8 Sandbox Bypass: JSToWasmWrapperAsm accessible and allows type confusion"](https://issuetracker.google.com/issues/342866373)
+
 
 ## Articles
 
