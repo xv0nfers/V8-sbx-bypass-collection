@@ -125,6 +125,8 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "issue id: 342866373, V8 Sandbox Bypass: JSToWasmWrapperAsm accessible and allows type confusion"](https://issuetracker.google.com/issues/342866373)
 
+[2024: "issue id: 338342091, V8 sandbox violation in Builtins_JSToJSWrapper"](https://issuetracker.google.com/issues/338342091)
+
 
 ## Articles
 
