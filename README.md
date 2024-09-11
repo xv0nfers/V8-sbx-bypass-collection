@@ -127,6 +127,10 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "issue id: 338342091, V8 sandbox violation in Builtins_JSToJSWrapper"](https://issuetracker.google.com/issues/338342091)
 
+[2024: "issue id: 337547182, V8 sandbox violation in Builtins_SuspendGeneratorHandler"](https://issuetracker.google.com/issues/337547182)
+
+[2024: "issue id: 342297062, V8 sandbox violation if SFI::formal_parameter_count doesn't match the parameter count of a function's code"](https://issuetracker.google.com/issues/342297062)
+
 
 ## Articles
 
