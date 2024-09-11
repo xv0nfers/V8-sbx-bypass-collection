@@ -131,6 +131,8 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "issue id: 342297062, V8 sandbox violation if SFI::formal_parameter_count doesn't match the parameter count of a function's code"](https://issuetracker.google.com/issues/342297062)
 
+[2024: "issue id: 343801366, V8 Sandbox Bypass: Incomplete hardening of the experimental regex engine"](https://issuetracker.google.com/issues/343801366)
+
 
 ## Articles
 
