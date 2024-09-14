@@ -135,6 +135,8 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "issue id: 344943044, V8 sandbox violation in v8::internal::maglev::MaglevGraphBuilder::GetValueNodeFromCapturedValue"](https://issuetracker.google.com/issues/344943044)
 
+[2024: "issue id: 344963941, V8 Sandbox Bypass: Irregexp engine bytecode modification leads to arbitrary read/write outside the sandbox"](https://issuetracker.google.com/issues/344963941)
+
 
 ## Articles
 
