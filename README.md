@@ -133,6 +133,8 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "issue id: 343801366, V8 Sandbox Bypass: Incomplete hardening of the experimental regex engine"](https://issuetracker.google.com/issues/343801366)
 
+[2024: "issue id: 344943044, V8 sandbox violation in v8::internal::maglev::MaglevGraphBuilder::GetValueNodeFromCapturedValue"](https://issuetracker.google.com/issues/344943044)
+
 
 ## Articles
 
