@@ -137,7 +137,6 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "issue id: 344963941, V8 Sandbox Bypass: Irregexp engine bytecode modification leads to arbitrary read/write outside the sandbox"](https://issuetracker.google.com/issues/344963941)
 
-
 ## Articles
 
 [2022: "Code Execution in Chromium’s V8 Heap Sandbox"](https://anvbis.au/posts/code-execution-in-chromiums-v8-heap-sandbox/)
@@ -178,8 +177,7 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "HITCON CTF QUAL 2024 Pwn Challenge Part 1 - Halloween and v8sbx"](https://u1f383.github.io/ctf/2024/07/16/hitcon-ctf-qual-2024-pwn-challenge-part-1-halloween-and-v8sbx.html)[HITCON CTF 2024]
 
-[2024: "SSD Advisory – Google Chrome RCE(Seunghyun Lee (@0x10n)"](https://mem2019.github.io/jekyll/update/2024/07/14/HITCON.html)[TyphoonPWN 2024]
-
+[2024: "SSD Advisory – Google Chrome RCE(Seunghyun Lee (@0x10n)"](https://ssd-disclosure.com/ssd-advisory-google-chrome-rce/)[TyphoonPWN 2024]
 
 ## Papers & Slides
 
@@ -199,12 +197,11 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "TIKTAG: Breaking ARM’s Memory Tagging Extension with Speculative Execution"](https://arxiv.org/pdf/2406.08719v1)
 
-[2024: "Let the Cache Cache and Let the WebAssembly Assemble: Knockin' on Chrome's Shell"](https://i.blackhat.com/BH-US-24/Presentations/US24-Bochin-Let-The-Cache-Cache-and-Wednesday.pdf)[blackhat USA 2024]
+[2024: "Let the Cache Cache and Let the WebAssembly Assemble: Knockin' on Chrome's Shell"](https://i.blackhat.com/BH-US-24/Presentations/REVISED-US24-Bochin-Let-The-Cache-Cache-and-Wednesday.pdf)[blackhat USA 2024]
 
 [2024: "V8 Sandbox Escape Write Up - Edouard Bochin (@le_douds) and Tao Yan (@Ga1ois)"](https://issues.chromium.org/action/issues/343407073/attachments/56741064?download=false)[Pwn2Own Vancouver 2024]
 
 [2024: "Bypassing the V8 sandbox protection mechanism"](https://github.com/phoen1xxxx/V8sandbox_bypass/blob/master/V8SandboxBypass.pdf)[OFFZONE 2024]
-
 
 ## Design documents
 
@@ -231,4 +228,3 @@ A collection of links related to V8 sandbox VR and exploitation
 [2024: "V8 Sandbox - Embedder Pointer Sandboxing"](https://docs.google.com/document/d/14m6CjJYaTFEmEq7czOOL5iqzMe72Owyy3PmxKdgaAms/edit#heading=h.xzptrog8pyxf)
 
 [2024: "V8 Sandbox + Leaptiering"](https://docs.google.com/document/d/1WkyEynMluvIr0LBmrapyF7MiE8wIHFHnlP5B6FFhQuA/edit#heading=h.xzptrog8pyxf)
-
