@@ -137,6 +137,8 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "issue id: 344963941, V8 Sandbox Bypass: Irregexp engine bytecode modification leads to arbitrary read/write outside the sandbox"](https://issuetracker.google.com/issues/344963941)
 
+[2024: "issue id: 346799730, Regexp backtrack stack can underflow"](https://issuetracker.google.com/issues/346799730)
+
 ## Articles
 
 [2022: "Code Execution in Chromium’s V8 Heap Sandbox"](https://anvbis.au/posts/code-execution-in-chromiums-v8-heap-sandbox/)
