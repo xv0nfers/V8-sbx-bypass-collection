@@ -141,6 +141,10 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "issue id: 339043698, V8 sandbox violation in unsigned char v8::base::ReadUnalignedValue<unsigned char>"](https://issuetracker.google.com/issues/339043698)
 
+[2024: "issue id: 348324480, OutsideSandboxOrInReadonlySpace checks in-sandbox data"](https://issuetracker.google.com/issues/348324480)
+
+[2024: "issue id: 349517592, Wasm FeedbackMaker OOB accesses"](https://issuetracker.google.com/issues/349517592)
+
 ## Articles
 
 [2022: "Code Execution in Chromium’s V8 Heap Sandbox"](https://anvbis.au/posts/code-execution-in-chromiums-v8-heap-sandbox/)
