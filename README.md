@@ -145,6 +145,8 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "issue id: 349517592, Wasm FeedbackMaker OOB accesses"](https://issuetracker.google.com/issues/349517592)
 
+[2024: "issue id: 345547973, V8 sandbox violation in v8::internal::wasm::name"](https://issuetracker.google.com/issues/345547973)
+
 ## Articles
 
 [2022: "Code Execution in Chromium’s V8 Heap Sandbox"](https://anvbis.au/posts/code-execution-in-chromiums-v8-heap-sandbox/)
