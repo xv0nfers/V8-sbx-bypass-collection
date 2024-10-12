@@ -149,6 +149,8 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "issue id: 349563054, V8 Sandbox Bypass: UAF by manipulating Managed<NativeModule>"](https://issuetracker.google.com/issues/349563054)
 
+[2024: "issue id: 349641090, V8 sandbox violation in v8::internal::compiler::MapData::instance_type"](https://issuetracker.google.com/issues/349641090)
+
 ## Articles
 
 [2022: "Code Execution in Chromium’s V8 Heap Sandbox"](https://anvbis.au/posts/code-execution-in-chromiums-v8-heap-sandbox/)
