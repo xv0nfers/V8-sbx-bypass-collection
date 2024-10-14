@@ -151,6 +151,8 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "issue id: 349641090, V8 sandbox violation in v8::internal::compiler::MapData::instance_type"](https://issuetracker.google.com/issues/349641090)
 
+[2024: "issue id: 337906704, V8 sandbox violation in v8::internal::OldLargeObjectSpace::PromoteNewLargeObject"](https://issuetracker.google.com/issues/337906704)
+
 ## Articles
 
 [2022: "Code Execution in Chromium’s V8 Heap Sandbox"](https://anvbis.au/posts/code-execution-in-chromiums-v8-heap-sandbox/)
