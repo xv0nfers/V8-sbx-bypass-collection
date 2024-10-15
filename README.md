@@ -13,6 +13,8 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2023: "issue id: 40940619, V8 Sandbox escape due to type tags in ExternalPointerTable being too coarse for Embedder Objects"](https://issuetracker.google.com/issues/40940619)
 
+[2023: "issue id: 40940623, V8 Sandbox escape due to coarse type-checking for Foreigns"](https://issuetracker.google.com/issues/40940623)
+
 [2024: "issue id: 42204606, Mitigate sandbox escapes in RegExp"](https://issuetracker.google.com/issues/42204606)
 
 [2024: "issue id: 336507783, V8 Sandbox: Prevent Wasm-based sandbox escapes "](https://issuetracker.google.com/issues/336507783)
