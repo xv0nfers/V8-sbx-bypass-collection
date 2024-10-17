@@ -221,6 +221,8 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "Bypassing the V8 sandbox protection mechanism"](https://github.com/phoen1xxxx/V8sandbox_bypass/blob/master/V8SandboxBypass.pdf)[OFFZONE 2024]
 
+[2024: "Chrome Exploitation: from Zero to Heap-Sandbox Escape"](https://github.com/uf0o/conference_talks/blob/main/bsides_oslo_2024_from_zero_to_heap_sandbox_escape.pdf)[BSides Oslo 2024][matteo malvica](https://x.com/matteomalvica)
+
 ## Design documents
 
 [2019: "Compressed pointers in V8"](https://docs.google.com/document/d/10qh2-b4C5OtSg-xLwyZpEI5ZihVBPtn1xwKBbQC26yI/edit#heading=h.x1cv1fi5g42q)
