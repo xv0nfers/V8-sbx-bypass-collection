@@ -155,6 +155,10 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "issue id: 337906704, V8 sandbox violation in v8::internal::OldLargeObjectSpace::PromoteNewLargeObject"](https://issuetracker.google.com/issues/337906704)
 
+[2024: "issue id: 348793147, V8 Sandbox Bypass: AAR/W via table import signature check bypass"](https://issuetracker.google.com/issues/348793147)
+
+[2024: "issue id: 351327767, WebAssembly OOB memory access due to cached memory index confusion"](https://issuetracker.google.com/issues/351327767)
+
 ## Articles
 
 [2022: "Code Execution in Chromium’s V8 Heap Sandbox"](https://anvbis.au/posts/code-execution-in-chromiums-v8-heap-sandbox/)
