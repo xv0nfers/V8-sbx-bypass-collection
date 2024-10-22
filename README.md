@@ -163,6 +163,8 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "issue id: 349502157, V8 Sandbox Bypass: AAR/W via table set OOB SBXCHECK_LT() bypass"](https://issuetracker.google.com/issues/349502157)
 
+[2024: "issue id: 349529650, V8 Sandbox Bypass: AAR/W via function import signature check race"](https://issuetracker.google.com/issues/349529650)
+
 ## Articles
 
 [2022: "Code Execution in Chromium’s V8 Heap Sandbox"](https://anvbis.au/posts/code-execution-in-chromiums-v8-heap-sandbox/)
