@@ -219,7 +219,7 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "A Chrome/Edge RCE via V8 WASM Type Confusion by Manfred Paul(@_manfp)"](https://issues.chromium.org/action/issues/330575498/attachments/54838004?download=false)[Pwn2Own Vancouver 2024]
 
-[2024: "Google Chrome Renderer Only RCE by Seunghyun Lee (@0x10n)"](https://issues.chromium.org/action/issues/330575498/attachments/54838004?download=false)[Pwn2Own Vancouver 2024]
+[2024: "Google Chrome Renderer Only RCE by Seunghyun Lee (@0x10n)"](https://issues.chromium.org/action/issues/330563095/attachments/54830017?download=false)[Pwn2Own Vancouver 2024]
 
 [2024: "Evolution of the protections of the V8 JSE"](https://www.sstic.org/2024/presentation/evolution_des_protections_du_moteur_javascript_v8/)[[slides](https://www.sstic.org/media/SSTIC2024/SSTIC-actes/evolution_des_protections_du_moteur_javascript_v8/SSTIC2024-Slides-evolution_des_protections_du_moteur_javascript_v8-jolivet.pdf)][[Full Article](https://www.sstic.org/media/SSTIC2024/SSTIC-actes/evolution_des_protections_du_moteur_javascript_v8/SSTIC2024-Article-evolution_des_protections_du_moteur_javascript_v8-jolivet.pdf)][SSTIC2024]
 
