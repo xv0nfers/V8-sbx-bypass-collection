@@ -167,6 +167,11 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "issue id: 352689356, V8 Sandbox Bypass: AAR/W via WASM function signature confusion in TurboFan call_ref"](https://issuetracker.google.com/issues/352689356)
 
+[2024: "issue id: 372298915, V8 sandbox violation in v8::internal::BuiltinArguments::operator "](https://issuetracker.google.com/issues/372298915)
+
+[2024: "issue id: 356649155, V8 sandbox violation in v8::internal::OldLargeObjectSpace::PromoteNewLargeObject"](https://issuetracker.google.com/issues/356649155)
+
+
 ## Articles
 
 [2022: "Code Execution in Chromium’s V8 Heap Sandbox"](https://anvbis.au/posts/code-execution-in-chromiums-v8-heap-sandbox/)
