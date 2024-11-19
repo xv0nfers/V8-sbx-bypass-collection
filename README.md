@@ -175,6 +175,10 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "issue id: 341129593, V8 Sandbox Bypass: Interpreted Function Argument Mismatch"](https://issuetracker.google.com/issues/341129593)
 
+[2024: "issue id: 344343031, V8 Sandbox Bypass: Code Pointer Table Index Confusion leading to Stack Corruption"](https://issuetracker.google.com/issues/344343031)
+
+[2024: "issue id: 338381304, V8 Sandbox Bypass: stack corruption due to parameter count mismatch"](https://issuetracker.google.com/issues/338381304)
+
 
 ## Articles
 
