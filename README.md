@@ -248,7 +248,9 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "Chrome Exploitation: from Zero to Heap-Sandbox Escape"](https://github.com/uf0o/conference_talks/blob/main/bsides_oslo_2024_from_zero_to_heap_sandbox_escape.pdf)[BSides Oslo 2024][[matteo malvica]](https://x.com/matteomalvica)
 
-[2024: "WebAssembly Is All You Need: Exploiting Chrome and the V8 Sandbox 10+ times with WASM"](https://powerofcommunity.net/poc2024/Seunghyun%20Lee,%20WebAssembly%20Is%20All%20You%20Need%20-%20Exploiting%20Chrome%20and%20the%20V8%20Sandbox%2010+%20times%20with%20WASM.pdf)[POC2024 ][[Seunghyun Lee]](https://x.com/0x10n)
+[2024: "WebAssembly Is All You Need: Exploiting Chrome and the V8 Sandbox 10+ times with WASM"](https://powerofcommunity.net/poc2024/Seunghyun%20Lee,%20WebAssembly%20Is%20All%20You%20Need%20-%20Exploiting%20Chrome%20and%20the%20V8%20Sandbox%2010+%20times%20with%20WASM.pdf)[POC2024][[Seunghyun Lee]](https://x.com/0x10n)
+
+[2024: "Fake it till you make it: Bypassing V8 Sandbox by constructing a fake Isolate"](https://powerofcommunity.net/poc2024/Jaewon%20Min%20&%20Kaan%20Ezder,%20Fake%20it%20till%20you%20make%20it%20-%20Bypassing%20V8%20Sandbox%20by%20constructing%20a%20fake%20Isolate.pdf)[POC2024][[Jaewon Min]](https://x.com/binerdd)[[Kaan Ezder]](https://x.com/kaanezder)
 
 ## Design documents
 
