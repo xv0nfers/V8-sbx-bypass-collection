@@ -173,6 +173,8 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "issue id: 329345899, V8 sandbox violation due to OOB SlotSet Bucket access when heap memory is corrupted"](https://issuetracker.google.com/issues/329345899)
 
+[2024: "issue id: 341129593, V8 Sandbox Bypass: Interpreted Function Argument Mismatch"](https://issuetracker.google.com/issues/341129593)
+
 
 ## Articles
 
