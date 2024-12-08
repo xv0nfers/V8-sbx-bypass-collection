@@ -179,6 +179,10 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "issue id: 338381304, V8 Sandbox Bypass: stack corruption due to parameter count mismatch"](https://issuetracker.google.com/issues/338381304)
 
+[2024: "issue id: 359952306, V8 sandbox violation in v8::internal::CommonFrameWithJSLinkage::GetParameter"](https://issuetracker.google.com/issues/359952306)
+
+[2024: "issue id: 359070975, V8 sandbox violation in unsigned int v8::internal::ReadMaybeUnalignedValue<unsigned int>"](https://issuetracker.google.com/issues/359070975)
+
 
 ## Articles
 
