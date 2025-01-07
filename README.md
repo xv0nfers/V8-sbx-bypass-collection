@@ -183,6 +183,8 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "issue id: 359070975, V8 sandbox violation in unsigned int v8::internal::ReadMaybeUnalignedValue<unsigned int>"](https://issuetracker.google.com/issues/359070975)
 
+[2024: "issue id:369652807 , V8 sandbox violation in v8::internal::wasm::name"](https://issuetracker.google.com/issues/369652807)
+
 
 ## Articles
 
