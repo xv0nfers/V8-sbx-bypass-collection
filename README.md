@@ -185,6 +185,8 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "issue id:369652807 , V8 sandbox violation in v8::internal::wasm::name"](https://issuetracker.google.com/issues/369652807)
 
+[2024: "issue id:354408144 ,V8 Sandbox Bypass: AAR/W via WASM signature confusion in Wasm-to-JS wrapper through PodArrayOfWasmValueType overwrite"](https://issuetracker.google.com/issues/354408144)
+
 
 ## Articles
 
