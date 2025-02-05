@@ -191,6 +191,8 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "issue id:361862752, V8 Sandbox Bypass: compiled JS-to-WASM wrappers don't guard against `trusted_function_data` overwrites"](https://issuetracker.google.com/issues/361862752)
 
+[2024: "issue id:372749557, V8 sandbox violation in Builtins_SuspendGeneratorBaseline"](https://issuetracker.google.com/issues/372749557)
+
 
 ## Articles
 
