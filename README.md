@@ -193,6 +193,8 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "issue id:372749557, V8 sandbox violation in Builtins_SuspendGeneratorBaseline"](https://issuetracker.google.com/issues/372749557)
 
+[2024: "issue id:366374966, V8 sandbox violation in Builtins_CEntry_Return1_ArgvOnStack_BuiltinExit"](https://issuetracker.google.com/issues/366374966)
+
 
 ## Articles
 
