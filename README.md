@@ -262,7 +262,7 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "Bypassing the V8 sandbox protection mechanism"](https://github.com/phoen1xxxx/V8sandbox_bypass/blob/master/V8SandboxBypass.pdf)[OFFZONE 2024]
 
-[2024: "Chrome Exploitation: from Zero to Heap-Sandbox Escape"](https://github.com/uf0o/conference_talks/blob/main/bsides_oslo_2024_from_zero_to_heap_sandbox_escape.pdf)[BSides Oslo 2024][[matteo malvica]](https://x.com/matteomalvica)
+[2024: "Chrome Exploitation: from Zero to Heap-Sandbox Escape"](https://github.com/uf0o/conference_talks/blob/main/bsides_oslo_2024_from_zero_to_heap_sandbox_escape.pdf)[BSides Oslo 2024][[matteo malvica]](https://x.com/matteomalvica)[NDC Security 2025](https://www.youtube.com/watch?v=RL2po1swXO4)
 
 [2024: "WebAssembly Is All You Need: Exploiting Chrome and the V8 Sandbox 10+ times with WASM"](https://powerofcommunity.net/poc2024/Seunghyun%20Lee,%20WebAssembly%20Is%20All%20You%20Need%20-%20Exploiting%20Chrome%20and%20the%20V8%20Sandbox%2010+%20times%20with%20WASM.pdf)[POC2024][[Seunghyun Lee]](https://x.com/0x10n)
 
