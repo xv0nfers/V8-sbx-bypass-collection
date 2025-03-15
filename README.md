@@ -195,6 +195,22 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "issue id:366374966, V8 sandbox violation in Builtins_CEntry_Return1_ArgvOnStack_BuiltinExit"](https://issuetracker.google.com/issues/366374966)
 
+[2024: "issue id:376496315, V8 sandbox violation in v8::internal::TranslatedValue::kind"](https://issuetracker.google.com/issues/376496315)
+
+[2024: "issue id:379768241, V8 sandbox violation in v8::internal::SlotSet* v8::internal::MutablePageMetadata::slot_set<"](https://issuetracker.google.com/issues/379768241)
+
+[2024: "issue id:379418918, V8 sandbox violation in Builtins_ContinueToJavaScriptBuiltinWithResult"](https://issuetracker.google.com/issues/379418918)
+
+[2024: "issue id:374812612, V8 Sandbox violation during OSR tier-up if code on FeedbackVector is modified"](https://issuetracker.google.com/issues/374812612)
+
+[2024: "issue id:381127888, V8 sandbox violation in v8::internal::compiler::JSContextSpecialization::ReduceJSLoadScriptContext"](https://issuetracker.google.com/issues/381127888)
+
+[2024: "issue id:350628675, V8 Sandbox Bypass: AAR/W via WASM dispatch table index OOB from `WasmTableObject.uses'"](https://issuetracker.google.com/issues/350628675)
+
+[2024: "issue id:382147423, V8 sandbox violation in v8::internal::MutablePageMetadata::SweepingDone"](https://issuetracker.google.com/issues/382147423)
+
+[2024: "issue id:381999810, V8 Sandbox Bypass: Memory corruption outside the V8 sandbox"](https://issuetracker.google.com/issues/381999810)
+
 
 ## Articles
 
