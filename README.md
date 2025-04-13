@@ -211,6 +211,8 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "issue id:381999810, V8 Sandbox Bypass: Memory corruption outside the V8 sandbox"](https://issuetracker.google.com/issues/381999810)
 
+[2024: "issue id:350292240, V8 Sandbox Bypass: AAR/W via generic function table `call_indirect` rtt check bypass"](https://issuetracker.google.com/issues/350292240)
+
 
 ## Articles
 
