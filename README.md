@@ -213,6 +213,12 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2024: "issue id:350292240, V8 Sandbox Bypass: AAR/W via generic function table `call_indirect` rtt check bypass"](https://issuetracker.google.com/issues/350292240)
 
+[2024: "issue id:384186547, V8 Sandbox Bypass: Attacker manipulation of ArrayBufferSweeper linked lists results in dangling ArrayBufferExtension pointers"](https://issuetracker.google.com/issues/384186547)
+
+[2025: "issue id:389713719, V8 Sandbox Bypass: MemoryChunk metadata_pointer_table OOB write"](https://issuetracker.google.com/issues/389713719)
+
+[2025: "issue id:388437270, V8 Sandbox Bypass: OOB write in JsonStringifier::SerializeString"](https://issuetracker.google.com/issues/388437270)
+
 
 ## Articles
 
