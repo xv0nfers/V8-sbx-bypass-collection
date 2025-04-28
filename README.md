@@ -219,6 +219,8 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2025: "issue id:388437270, V8 Sandbox Bypass: OOB write in JsonStringifier::SerializeString"](https://issuetracker.google.com/issues/388437270)
 
+[2025: "issue id:389970331, V8 Sandbox Bypass: StringToBigIntHelper stack-buffer-overflow"](https://issuetracker.google.com/issues/389970331)
+
 
 ## Articles
 
