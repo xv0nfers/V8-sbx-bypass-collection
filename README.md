@@ -225,7 +225,7 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2025: "issue id:390453039, V8 Sandbox Bypass: UB in WebAssemblyMemoryGrow because AddressType is constructed from on-heap data"](https://issuetracker.google.com/issues/390453039)
 
-[2025: "issue id:390816209, V8 Sandbox Bypass: UB in WebAssemblyTableGet because AddressType is constructed from on-heap data"](https://issuetracker.google.com/issues/390816209)
+[2025: "issue id:390816209, V8 Sandbox Bypass: Control flow hijack via switch-case over corrupted MessageTemplate enum value"](https://issuetracker.google.com/issues/390816209)
 
 [2025: "issue id:390441099, V8 Sandbox Bypass: StringToBigIntHelper stack-buffer-overflow"](https://issuetracker.google.com/issues/390441099)
 
