@@ -229,6 +229,11 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2025: "issue id:390441099, V8 Sandbox Bypass: StringToBigIntHelper stack-buffer-overflow"](https://issuetracker.google.com/issues/390441099)
 
+[2025: "V8 Sandbox Bypass: AAW (wildcopy) due to %TypedArray%.prototype.set bounds check integer overflow"](https://issuetracker.google.com/issues/391169061)
+
+[2025: "issue id:395659804, V8 Sandbox Bypass: Arbitrary code execution via OSR DeoptimizationData confusion"](https://issuetracker.google.com/issues/390441099)
+
+
 
 ## Articles
 
