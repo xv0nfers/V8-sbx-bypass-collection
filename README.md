@@ -233,6 +233,11 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2025: "issue id:395659804, V8 Sandbox Bypass: Arbitrary code execution via OSR DeoptimizationData confusion"](https://issuetracker.google.com/issues/390441099)
 
+[2025: "issue id:398773898, V8 Sandbox Bypass: OOB write in JsonStringifier::TrySerializeSimplePropertyKey"](https://issuetracker.google.com/issues/398773898)
+
+[2025: "issue id:393989622, V8 sandbox violation in icu_74::UnicodeString::doAppend"](https://issuetracker.google.com/issues/393989622)
+
+
 
 
 ## Articles
