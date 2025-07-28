@@ -237,6 +237,17 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2025: "issue id:393989622, V8 sandbox violation in icu_74::UnicodeString::doAppend"](https://issuetracker.google.com/issues/393989622)
 
+[2024: "issue id:385775375, V8 sandbox violation due to concurrent ArrayBuffer modifications during std::sort"](https://issuetracker.google.com/issues/385775375)
+
+[2024: "issue id:386565139, V8 Sandbox Bypass: Interger Overflow in TypedArraySet leading to out-of-sandbox write"](https://issuetracker.google.com/issues/386565139)
+
+[2025: "issue id:403600260, V8 Sandbox Bypass: Uninitialized read to switch-case OOB jump in Maglev JSGeneratorObject allocation inlining"](https://issuetracker.google.com/issues/403600260)
+
+[2025: "issue id:401732698, V8 sandbox violation in v8"](https://issuetracker.google.com/issues/401732698)
+
+[2025: "issue id:404285918, V8 Sandbox Bypass: SP/PC control via Wasm JSPI central stack top confusion"](https://issuetracker.google.com/issues/404285918)
+
+[2025: "issue id:396446145, V8 Sandbox Bypass: OOB write in JsonParser::DecodeString (double fetch)"](https://issuetracker.google.com/issues/396446145)
 
 
 
@@ -337,3 +348,6 @@ A collection of links related to V8 sandbox VR and exploitation
 [2024: "V8 Sandbox - Embedder Pointer Sandboxing"](https://docs.google.com/document/d/14m6CjJYaTFEmEq7czOOL5iqzMe72Owyy3PmxKdgaAms/edit#heading=h.xzptrog8pyxf)
 
 [2024: "V8 Sandbox + Leaptiering"](https://docs.google.com/document/d/1WkyEynMluvIr0LBmrapyF7MiE8wIHFHnlP5B6FFhQuA/edit#heading=h.xzptrog8pyxf)
+
+[2025: "V8 Sandbox - Hardware Sandbox v0.1"](https://docs.google.com/document/d/1l3urJdk1M3JCLpT9HDvFQKOxuKxwINcXoYoFuKkfKcc/edit)
+
