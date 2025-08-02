@@ -249,6 +249,8 @@ A collection of links related to V8 sandbox VR and exploitation
 
 [2025: "issue id:396446145, V8 Sandbox Bypass: OOB write in JsonParser::DecodeString (double fetch)"](https://issuetracker.google.com/issues/396446145)
 
+[2025: "issue id:395895382, V8 Sandbox Bypass: AAW via array length corruption in Turbofan spread call inlining"](https://issuetracker.google.com/issues/395895382)
+
 
 
 ## Articles
